@@ -1,1 +1,1 @@
-# Downloadして使ってください
+# とりあえず、TestServerに上げます。
